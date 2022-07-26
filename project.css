@@ -1,0 +1,62 @@
+#mr{position: relative; margin-top: 1000px;}
+
+body{background-color: rgba(116, 116, 116, 0.171)}
+
+.mainbody{border: 2px solid rgb(252, 252, 252); border-radius: 15px; background-color: rgb(252, 252, 252); width: 450px; height: 1000px; margin-left: 460px; margin-top: 20px;}
+
+.fa-brands fa-ethereum{height: 2px; width: 2px; position: absolute; left: 50px;}
+#profile{border-radius: 50%; position: relative; left: 50px; bottom: 20px; size: 20px;}
+
+.details{position: absolute;width: 372px; height: 135px;left: 28px; top: 126px; background: #47126C; border-radius: 10px;}
+
+.icon{position: relative; left: 50px;}
+
+.mainpart{position: relative; width: 428px; height: 926px; background: rgb(228, 221, 221);border-radius: 20px;}
+
+.hi{position: absolute; width: 77px; height: 46px; left: 89px; top: 49px; right: 262px; bottom: 831px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: normal; font-weight: 700; font-size: 15px; line-height: 45px; display: flex; align-items: center; text-align: center; color: black;}
+
+.vector{position: absolute; left: 375px; right: 25px; top: 58px; bottom: 840px;}
+
+.Add{position: absolute; width: 79px; height: 46px; left: 283px; top: 49px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: normal; font-weight: 700; font-size: 15px; line-height: 45px; display: flex; align-items: center; text-align: center; color: #581688;}
+
+.profile{position: absolute; width: 45px; height: 45px; border-radius: 25px; top: 51px; left: 31px; right: 352px;bottom: 830px;}
+
+.acct{position: absolute; width: 372px; height: 135px; left: 28px; top: 126px; background: #47126C; border-radius: 10px;}
+
+.balance{position: absolute; width: 103px; height: 46px; bottom: 752px; right: 159px; left: 175px; top: 126px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: normal; font-weight: 400; font-size: 12px; line-height: 45px; display: flex; text-align: center; align-items: center; color: white;}
+
+.sign{position: absolute; top: 169px; left: 176px; right: 233px; bottom: 737px;}
+
+.figure{position: absolute; width: 58px; height: 46px; left: 200px; top: 158px; right: 170px; bottom: 722px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: normal; font-weight: 700; font-size: 22px; line-height: 45px; display: flex; align-items: center; text-align: center; color: rgb(255, 255, 255);}
+
+.card{position: absolute; top: 205px; left: 123px; right: 265px; bottom: 688px; height: 30px; width: 40px;}
+
+.spend{position: absolute; width: 45px; height: 46px; bottom: 658.95px; right: 264.95px; left: 125px; top: 221px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: normal; font-weight: 500; font-size: 13px; line-height: 45px; display: flex; text-align: center; align-items: center; color: white;}
+
+.save{position: absolute; top: 208px; left: 204px; right: 189px; bottom: 688px; width: 40px; height: 30px;}
+
+.savetext{position: absolute; top: 221px;left: 205px; right: 190px; bottom: 659px; width: 33px; height: 46px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: normal; font-weight: 500; color: white;}
+
+.borrow{position: absolute; top: 205px; left: 275px; right: 113px; bottom: 688px; width: 40px; height: 30px;}
+
+.borrowtext{position: absolute; top: 221px;left: 272px; right: 110px; bottom: 659px; width: 33px; height: 46px; color: white; font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;'; font-style: normal; font-weight: 500;}
+
+.firstdate{position: absolute; width: 428px; height: 30px; bottom: 585px; top: 311px; background: rgb(228, 221, 221);}
+
+.mayf{position: absolute; top: 303px;left: 28px; right: 322px; bottom: 577px; width: 78px; height: 46px; color: white; font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;'; font-style: normal; font-weight: 700; font-size: 13px; font-style: normal; line-height: 45px; color: #565656; text-align: center; align-items: center; display: flex;}
+
+.otherpart{position: relative; width: 428px; height: 929px; background: white; border-radius: 10px;}
+
+.gtb{position: absolute; top: 352px; left: 28px; right: 340px; bottom: 514px; width: 60px; height: 60px;}
+
+.receiver{position: absolute; top: 349px;left: 110px; right: 224px; bottom: 531px; width: 94px; height: 36px; color: #000000; font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;'; font-style: normal; font-weight: 600; font-size: 17px; font-style: normal; line-height: 45px; text-align: center; align-items: center; display: flex;}
+
+.time{position: absolute; top: 378px;left: 110px; right: 271px; bottom: 502px; width: 47px; height: 46px; color: #717171; font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;'; font-style: normal; font-weight: 500; font-size: 13px; font-style: normal; line-height: 45px; text-align: center; align-items: center; display: flex;}
+
+.ammountf{position: absolute; top: 349px;left: 335px; right: 18px; bottom: 531px; width: 75px; height: 46px; color: #000000; font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;'; font-style: normal; font-weight: 600; font-size: 17px; font-style: normal; line-height: 45px; text-align: center; align-items: center; display: flex;}
+
+.line{position: absolute; width: 411px; height: 0px; background: white; left: 9px; top: 427px; border: 1px solid #c2c0c0;}
+
+.seconddate{position: absolute; width: 428px; height: 30px; bottom: 454px; top: 442px; background: rgb(228, 221, 221);}
+
+.mays{position: absolute; top: 435px;left: 28px; right: 322px; bottom: 446px; width: 78px; height: 46px; color: white; font-family: 'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;'; font-style: normal; font-weight: 700; font-size: 13px; font-style: normal; line-height: 45px; color: #565656; text-align: center; align-items: center; display: flex;}
